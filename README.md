@@ -1,3 +1,4 @@
+#Requirements 
 Dot Net8.0 -> https://dotnet.microsoft.com/en-us/download/dotnet/8.0 
 Node Js -> https://nodejs.org/en
 Visual studio 2022 -> https://visualstudio.microsoft.com/downloads/
